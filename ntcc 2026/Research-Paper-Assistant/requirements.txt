@@ -1,0 +1,11 @@
+streamlit
+faiss-cpu
+sentence-transformers
+langchain
+langchain-groq
+openai
+arxiv
+requests
+numpy
+tqdm
+python-dotenv
